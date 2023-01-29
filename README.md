@@ -1,3 +1,3 @@
 # Learning to Actively Learn
 
-This repository becomes updated over time.
+This repo becomes updated over time.
